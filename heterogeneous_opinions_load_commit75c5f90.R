@@ -1,6 +1,6 @@
 risultati <- matrix(nrow = 40, ncol=49)
 
-db <- read.csv("deffuant_bench_distribution experiment distribution-table.csv",sep = ",",dec = ".",skip = 6)
+db <- read.csv("heterogeneous_opinions_results_commit75c5f90.csv",sep = ",",dec = ".",skip = 6)
 db$parameters <- paste(db$mu, db$theta)
 
 
