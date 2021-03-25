@@ -1,0 +1,17 @@
+prop1,prop2,target_prop1,target_prop2,esito
+sergente,alto,sergente,alto,0.4
+sergente,alto,sergente,basso,0.2
+sergente,alto,tenente,alto,0.6
+sergente,alto,tenente,basso,0.5
+sergente,basso,sergente,alto,0.3
+sergente,basso,sergente,basso,0.2
+sergente,basso,tenente,alto,0.4
+sergente,basso,tenente,basso,0.3
+tenente,alto,sergente,alto,0.4
+tenente,alto,sergente,basso,0.3
+tenente,alto,tenente,alto,0.5
+tenente,alto,tenente,basso,0.4
+tenente,basso,sergente,alto,0.5
+tenente,basso,sergente,basso,0.4
+tenente,basso,tenente,alto,0.6
+tenente,basso,tenente,basso,0.5
